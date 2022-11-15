@@ -14,4 +14,4 @@ I'm doing 42 cursus rn!
 
  - [Random Cat Pic](https://images.unsplash.com/photo-1529778873920-4da4926a72c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3V0ZSUyMGNhdHxlbnwwfHwwfHw%3D&w=1000&q=80)
  - [42 School](https://www.42porto.com/)
- - [Patreon](patreon.com/Destropho)
+ - [Patreon](https://www.patreon.com/Destropho)
